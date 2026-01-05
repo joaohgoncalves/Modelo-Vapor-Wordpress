@@ -33,7 +33,7 @@ Este é um **template profissional de alta conversão** para lojas de vapes, ide
 
 ## 📷 Preview
 
-![Preview](modelo-vapor-by-paginas-de-alta-conversao (1).jpg)
+![Preview da Landing Page](banner.png)
 
 ---
 
